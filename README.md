@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# React_Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a personal resume website developed using React, showcasing my skills, experiences, and projects. It provides an interactive and visually appealing way for employers and recruiters to learn more about me and my qualifications.
 
-## Available Scripts
+## Introduction
+This resume website is a single-page application built with React, providing an overview of my professional background, education, skills, work experiences, and personal projects. It offers a clean and user-friendly interface to easily navigate and access relevant information.
 
-In the project directory, you can run:
+## Features
+Interactive Interface: The website offers an engaging and interactive user interface, enhancing the user experience.
+Responsive Design: The layout adapts seamlessly to various screen sizes, making it accessible across different devices.
+Project Showcase: A section to showcase my personal projects, including descriptions and links to GitHub repositories.
+Skills Highlight: A clear presentation of my skills and proficiency levels in different technologies and tools.
+Work Experience: Detailed information about my previous work experiences and accomplishments.
+Contact Information: A section with my contact details, making it easy for potential employers to get in touch.
 
-### `npm start`
+## Installation
+Clone the repository to your local machine using Git:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+git clone `https://github.com/Amritpal-Kaur0/React_Portfolio.git`
 
-### `npm test`
+Navigate to the project directory:
+cd `React_Portfolio`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Install the required dependencies:
 
-### `npm run build`
+`npm install`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Deployment Video 
+https://drive.google.com/file/d/1uqb9CJOQpTX1pngq1qI415FNBBQySBlX/view?pli=1
+## Usage
+To run the development server and preview the resume website, execute the following command:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+`npm start`
+This will start the development server, and you can access the website at http://localhost:3000 in your web browser.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies Used
+React
+HTML
+CSS
+JavaScript
+Tailwind
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributing
+If you wish to contribute to this project, feel free to submit a pull request. All contributions are welcome!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Fork the repository.
+Create a new branch: git checkout -b feature/your-feature.
+Make your changes and commit them: git commit -m 'Add some feature'.
+Push to the branch: git push origin feature/your-feature.
+Submit a pull request.
+## License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial purposes.
