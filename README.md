@@ -28,6 +28,10 @@ Install the required dependencies:
 
 ## Deployment Video 
 https://drive.google.com/file/d/1uqb9CJOQpTX1pngq1qI415FNBBQySBlX/view?pli=1
+
+## Deployed Link
+https://amritpal-kaur0.github.io/React_Portfolio/
+
 ## Usage
 To run the development server and preview the resume website, execute the following command:
 
