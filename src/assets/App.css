@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo {
+  font-family: fantasy;
+  text-decoration: overline black;
+  animation: slideleft 1s ease forwards;
+  opacity: 0;
+}
+.navbar li {
+    animation: slideUp 1s ease forwards;
+}
+.btn:hover {
+  box-shadow: none;
+}
+.btn {
+  animation: slideUp 1s ease forwards;
+}
+i {
+  border: 3px solid rgb(208, 163, 30);
+  border-radius: 50%;
+  color: rgb(18, 18, 17);
+  transition: 0.3ms;
+  animation: slideleft 1s ease forwards;
+  opacity: 0;
+}
+i:hover {
+  box-shadow: 0 0 50px rgb(210, 180, 9);
+  color: rgb(177, 74, 74);
+}
+.info-side > a i {
+    margin: 2em 10px;
+    padding: 10px;
+  }
+
+.hero-avatar{
+    animation: zoomIn 1.s ease forwards;
+    animation-delay: 1.2s;
+    opacity: 1;
+    
+  }
+.about-para{
+  animation: slideUp 1s ease forwards;
+}
+.box{
+  animation: slideleft 0.5s ease forwards;
+}
+.card-title{
+  background-color: rgba(54, 49, 49, 0.256);
+}
+
+/* Animation  */
+@keyframes zoomIn {
+    0% {
+      transform: scale(0);
+      opacity: 0;
+    }
+    100% {
+      transform: scale(1);
+      opacity:1;
+    }
+  }
+@keyframes slideleft {
+  0% {
+    transform: translateX(-100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes slideUp {
+  0% {
+    transform: translateY(100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+@keyframes socialIcons {
+  0% {
+    transform: translateX(100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
