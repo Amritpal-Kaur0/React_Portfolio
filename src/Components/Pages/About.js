@@ -3,13 +3,15 @@
 import React from 'react';
 import bg from '../../assets/bg.jpg';
 import Footer from './footer';
+import Skills from './Skills'
 
 export default function About() {
   return (
-    <div id="About " className="relative ">
+    <div>
+    <div id="About " className=" relative ">
       <img src={bg} alt="background" className="w-full h-screen blur-[4px]" />
-      <div className=" box  absolute top-10 xs:top-45 left-10 right-10 bottom-26 sm:bottom-26 bg-white  flex items-center justify-center">
-        {/* Remove "h-2/4" to allow the parent div to adjust its height */}
+      <div className=" box m-16 sm:m-46 absolute top-10 xs:top-45 left-10 right-10 bottom-26 sm:bottom-26 bg-white  flex items-center justify-center">
+      
         <div className="p-4 m-6">
           <h2 className="text-3xl flex justify-center font-bold mb-10">About Me</h2>
           <p className="about-para text-wrap text-slate-950 font-serif ">
@@ -21,6 +23,8 @@ export default function About() {
           </p>
         </div>
       </div>
+    </div>
+      <Skills/>
       <Footer />
     </div>
   );

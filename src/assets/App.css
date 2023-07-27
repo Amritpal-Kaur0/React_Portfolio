@@ -15,7 +15,7 @@
   box-shadow: none;
 }
 .btn {
-  animation: slideUp 1s ease forwards;
+  animation: slideUp 2s ease forwards;
 }
 i {
   border: 3px solid rgb(208, 163, 30);
@@ -44,7 +44,7 @@ i:hover {
   animation: slideUp 1s ease forwards;
 }
 .box{
-  animation: slideleft 0.5s ease forwards;
+  animation: slideleft 2s ease forwards;
 }
 .card-title{
   background-color: rgba(54, 49, 49, 0.256);

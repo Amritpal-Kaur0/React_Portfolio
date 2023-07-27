@@ -34,7 +34,7 @@ export default function Home() {
           <div className="hero-img mt-4 sm:mt-0 sm:ml-4 flex-grow-0 flex items-center justify-center sm:justify-end">
             <img
               className="hero-avatar max-w-full max-h-full"
-              src={heroimg}
+          img src={heroimg}
               alt="my avatar"
             />
           </div>
