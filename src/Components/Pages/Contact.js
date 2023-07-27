@@ -2,7 +2,7 @@
 
 
 import React, { useState } from 'react';
-import Footer from './footer';
+import Footer from '../footer';
 import { validateName, validateEmail, isFormValid } from './utils/formvalidation'
 
 const ContactForm = () => {

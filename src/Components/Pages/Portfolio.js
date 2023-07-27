@@ -1,5 +1,5 @@
 import React from 'react';
-import Footer from './footer'
+import Footer from '../footer'
 import githubIcon from '../../assets/github-icon.png'; 
 import project1Img from '../../assets/Rentix (1).png'
 import project2Img from '../../assets/Eventfinder.png'

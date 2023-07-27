@@ -1,5 +1,5 @@
 import React from 'react';
-import PortfolioContainer from './PortfolioContainer';
+import PortfolioContainer from '../Navbar';
 // import Hero from './Pages/Hero'
 export default function Header() {
   return (

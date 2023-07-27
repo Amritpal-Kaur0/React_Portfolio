@@ -2,7 +2,7 @@
 
 import React from 'react';
 import bg from '../../assets/bg.jpg';
-import Footer from './footer';
+import Footer from '../footer';
 import Skills from './Skills'
 
 export default function About() {

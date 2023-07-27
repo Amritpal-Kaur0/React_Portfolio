@@ -3,7 +3,7 @@ import React from 'react';
 import bg from '../../assets/homebg.jpg';
 import heroimg from '../../assets/myavatar.png';
 import resumePdf from '../../assets/Resume.pdf';
-import Footer from './footer' 
+import Footer from '../footer' 
 
 export default function Home() {
   return (
