@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.468c008e.css",
-    "main.js": "/React_Portfolio/static/js/main.e68d61da.js",
+    "main.css": "/React_Portfolio/static/css/main.64746691.css",
+    "main.js": "/React_Portfolio/static/js/main.cc704a7c.js",
     "static/js/787.1ed0c42c.chunk.js": "/React_Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/homebg.jpg": "/React_Portfolio/static/media/homebg.a13b929eea1da9c7fabd.jpg",
     "static/media/bg.jpg": "/React_Portfolio/static/media/bg.8f370571621485924d96.jpg",
@@ -13,14 +13,15 @@
     "static/media/Tech-blog (1).png": "/React_Portfolio/static/media/Tech-blog (1).0e66116e9c11ab30812d.png",
     "static/media/WorkSchedular (1).png": "/React_Portfolio/static/media/WorkSchedular (1).dd86390245e751327ee5.png",
     "static/media/note-taker (1).png": "/React_Portfolio/static/media/note-taker (1).e31bdd1d8088e6599f56.png",
+    "static/media/skillsbg.avif": "/React_Portfolio/static/media/skillsbg.38f4d5c804e93128b6a1.avif",
     "static/media/github-icon.png": "/React_Portfolio/static/media/github-icon.ba9cb8d57d53e7189c48.png",
     "index.html": "/React_Portfolio/index.html",
-    "main.468c008e.css.map": "/React_Portfolio/static/css/main.468c008e.css.map",
-    "main.e68d61da.js.map": "/React_Portfolio/static/js/main.e68d61da.js.map",
+    "main.64746691.css.map": "/React_Portfolio/static/css/main.64746691.css.map",
+    "main.cc704a7c.js.map": "/React_Portfolio/static/js/main.cc704a7c.js.map",
     "787.1ed0c42c.chunk.js.map": "/React_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.468c008e.css",
-    "static/js/main.e68d61da.js"
+    "static/css/main.64746691.css",
+    "static/js/main.cc704a7c.js"
   ]
 }
