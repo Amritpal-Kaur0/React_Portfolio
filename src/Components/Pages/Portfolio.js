@@ -1,7 +1,9 @@
 import React from 'react';
 import Footer from '../footer'
 import githubIcon from '../../assets/github-icon.png'; 
+
 import project1Img from '../../assets/Rentix (1).png'
+import projectImg from '../../assets/CloudConnect.png'
 import project2Img from '../../assets/Eventfinder.png'
 import project3Img from '../../assets/note-taker (1).png'
 import project4Img from '../../assets/Tech-blog (1).png'
@@ -12,6 +14,13 @@ import project6Img from '../../assets/Weatherapp (1).png'
 export default function Portfolio() {
   // Sample data for cards (you can replace these with your actual project details)
   const projects = [
+    {
+      id: 0,
+      title: 'CloudConnect',
+      imageUrl: projectImg,
+      githubLink: 'https://github.com/Amritpal-Kaur0/CloudConnect',
+      deployedSiteLink:'https://cloud-connect-585fc15863b5.herokuapp.com/',
+    },
     {
       id: 1,
       title: 'Rentixx',

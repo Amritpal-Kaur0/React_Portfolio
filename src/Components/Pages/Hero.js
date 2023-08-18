@@ -13,7 +13,7 @@ export default function Home() {
 
         <div className="absolute bg-white opacity-92 p-4 sm:p-8 top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 h-3/4 flex flex-col-reverse sm:flex-row justify-center items-center">
           <div className="p-2 box info-side text-center sm:text-left flex-grow sm:flex-grow-0 mt-4 sm:mt-0">
-            <h1 className="text-3xl font-bold mb-4 drop-shadow-2xl shadow-black">
+            <h1 className="text-3xl font-bold mb-4 drop-shadow-xl shadow-black">
               Hi, I am Amrit
             </h1>
             <h4 className="text-slate-500 font-bold">-Full-Stack Web Developer</h4>
