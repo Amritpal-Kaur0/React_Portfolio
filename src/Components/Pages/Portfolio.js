@@ -71,7 +71,7 @@ export default function Portfolio() {
     <div className="flex bg-amber-100 flex-wrap justify-center pb-16">
       {projects.map((project) => (
         <div key={project.id} className=" card max-w-sm rounded overflow-hidden shadow-lg shadow-black m-4">
-          <div className="relative box">
+          <div className="relative box m-3">
             <img src={project.imageUrl} alt={project.title} className="w-full h-40 object-cover" />
             <div className="absolute top-0 left-0 w-full h-full bg-black opacity-50"></div>
             <div className="absolute top-0 left-0 w-full p-4">
@@ -81,13 +81,13 @@ export default function Portfolio() {
                 rel="noopener noreferrer"
                 className="absolute top-2 right-2"
               >
-                <img src={githubIcon} alt="GitHub" className="w-8 h-8 bg-white blur-[1px] " />
+                <img src={githubIcon} alt="GitHub" className="w-10 h-10 bg-white blur-[1px] " />
               </a>
               <h3 className="text-white text-xl font-bold">{project.title}</h3>
             </div>
           </div>
-          <div className="px-6 py-4 card-title ">
-            <div className="flex justify-center">
+          {/* <div className="px-6 py-4 card-title "> */}
+            {/* <div className="flex justify-center">
               <a
                 href={project.deployedSiteLink}
                 target="_blank"
@@ -96,8 +96,8 @@ export default function Portfolio() {
               >
                 View Deployed Site
               </a>
-            </div>
-          </div>
+            </div> */}
+          {/* </div> */}
         </div>
       ))}
       <Footer/>

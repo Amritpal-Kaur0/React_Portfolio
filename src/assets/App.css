@@ -5,8 +5,8 @@
 .logo {
   font-family: fantasy;
   text-decoration: overline black;
-  animation: slideleft 1s ease forwards;
-  opacity: 0;
+  animation: logoIn  infinite 10s linear ;
+  /* opacity: 0; */
 }
 .navbar li {
     animation: slideUp 1s ease forwards;
@@ -61,6 +61,17 @@ i:hover {
       opacity:1;
     }
   }
+@keyframes logoIn {
+    from {
+      transform:rotate(0deg);
+      /* opacity: 0; */
+    }
+    to {
+      transform: rotate(360deg);
+      /* opacity:1; */
+    }
+  }
+
 @keyframes slideleft {
   0% {
     transform: translateX(-100px);
