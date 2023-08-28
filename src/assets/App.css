@@ -5,7 +5,8 @@
 .logo {
   font-family: fantasy;
   text-decoration: overline black;
-  animation: logoIn  infinite 10s linear ;
+    animation: slideUp 1s ease forwards;
+/*   animation: logoIn  infinite 10s linear ; */
   /* opacity: 0; */
 }
 .navbar li {
