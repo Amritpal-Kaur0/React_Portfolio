@@ -2,7 +2,7 @@
 import React from 'react';
 import bg from '../../assets/homebg.jpg';
 import heroimg from '../../assets/myavatar.png';
-import resumePdf from '../../assets/Resume.pdf';
+import resumePdf from '../../assets/My_Resume.pdf';
 import Footer from '../footer' 
 
 export default function Home() {
@@ -24,7 +24,7 @@ export default function Home() {
            
             <br />
            <div className='pb-16'>
-            <a href={resumePdf} download> 
+            <a href={resumePdf} target="blank" download> 
             <button className="btn p-2 px-4 bg-yellow-500 rounded-xl text-white shadow-3xl">
               Download CV &#8681; 
             </button>
