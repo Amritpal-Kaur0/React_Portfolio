@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.9f5ce9e7.css",
-    "main.js": "/React_Portfolio/static/js/main.354369b7.js",
+    "main.css": "/React_Portfolio/static/css/main.b54dc2fb.css",
+    "main.js": "/React_Portfolio/static/js/main.eb1237f2.js",
     "static/js/787.1ed0c42c.chunk.js": "/React_Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Book Search.gif": "/React_Portfolio/static/media/Book Search.1a361cfae3dd7851192c.gif",
     "static/media/homebg.jpg": "/React_Portfolio/static/media/homebg.a13b929eea1da9c7fabd.jpg",
     "static/media/bg.jpg": "/React_Portfolio/static/media/bg.8f370571621485924d96.jpg",
     "static/media/Rentix (1).png": "/React_Portfolio/static/media/Rentix (1).fe49c57e251b3a63d1c3.png",
     "static/media/Eventfinder.png": "/React_Portfolio/static/media/Eventfinder.c377dcbcdc843d5ec896.png",
+    "static/media/Course_Sell with jwt.png": "/React_Portfolio/static/media/Course_Sell with jwt.c0480c70ea5d07ec2a95.png",
+    "static/media/Recipes with Amrit.png": "/React_Portfolio/static/media/Recipes with Amrit.7999d77c2fae9f64caa0.png",
+    "static/media/Readme generator.png": "/React_Portfolio/static/media/Readme generator.a9387de5be4993ad6e77.png",
+    "static/media/Social-media backend.png": "/React_Portfolio/static/media/Social-media backend.bec3a907cd4ba4be3f61.png",
     "static/media/Weatherapp (1).png": "/React_Portfolio/static/media/Weatherapp (1).ba4f4054aa3595d41c03.png",
     "static/media/CloudConnect.png": "/React_Portfolio/static/media/CloudConnect.e23332b795f0eb07c7c5.png",
+    "static/media/Pinterest.png": "/React_Portfolio/static/media/Pinterest.33d4a7f835212e358c54.png",
+    "static/media/E-commerce Api.png": "/React_Portfolio/static/media/E-commerce Api.cee8067afed15f2625a2.png",
+    "static/media/PWA text editor.png": "/React_Portfolio/static/media/PWA text editor.da17126f78f8781db718.png",
     "static/media/myavatar.png": "/React_Portfolio/static/media/myavatar.6e382b5bc8dd862af415.png",
     "static/media/My_Resume.pdf": "/React_Portfolio/static/media/My_Resume.5f8345e4b0148f6669ad.pdf",
     "static/media/Tech-blog (1).png": "/React_Portfolio/static/media/Tech-blog (1).0e66116e9c11ab30812d.png",
@@ -17,12 +25,12 @@
     "static/media/skillsbg.avif": "/React_Portfolio/static/media/skillsbg.38f4d5c804e93128b6a1.avif",
     "static/media/github-icon.png": "/React_Portfolio/static/media/github-icon.ba9cb8d57d53e7189c48.png",
     "index.html": "/React_Portfolio/index.html",
-    "main.9f5ce9e7.css.map": "/React_Portfolio/static/css/main.9f5ce9e7.css.map",
-    "main.354369b7.js.map": "/React_Portfolio/static/js/main.354369b7.js.map",
+    "main.b54dc2fb.css.map": "/React_Portfolio/static/css/main.b54dc2fb.css.map",
+    "main.eb1237f2.js.map": "/React_Portfolio/static/js/main.eb1237f2.js.map",
     "787.1ed0c42c.chunk.js.map": "/React_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f5ce9e7.css",
-    "static/js/main.354369b7.js"
+    "static/css/main.b54dc2fb.css",
+    "static/js/main.eb1237f2.js"
   ]
 }
