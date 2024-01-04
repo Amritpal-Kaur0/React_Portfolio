@@ -12,10 +12,7 @@ export default function footer() {
               <a href="https://www.linkedin.com/in/amritpal-kaur-a3478a121/">
                 <i className="uil uil-linkedin p-4"></i>
               </a>
-              <a href="#facebook">
-                <i className="uil uil-facebook-f p-4"></i>
-              </a>
-              <a href="#twitter">
+              <a href="https://twitter.com/AmritGill3005">
                 <i className="p-4 uil uil-twitter"></i>
               </a>
             </div>
