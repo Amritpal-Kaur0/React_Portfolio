@@ -5,8 +5,6 @@ import emailjs from '@emailjs/browser';
 
 
 
-
-  
 const ContactForm=()=>{
   const form = useRef();
 
@@ -34,7 +32,7 @@ const ContactForm=()=>{
           <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="name">
             Name
           </label>
-          <input
+          <input required
             type="text"
             name="user_name"
             id="name"
@@ -46,7 +44,7 @@ const ContactForm=()=>{
           <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="email">
             Email
           </label>
-          <input
+          <input required
             type="email"
             name="user_email"
             id="email"
@@ -59,7 +57,7 @@ const ContactForm=()=>{
           <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="message">
             Message
           </label>
-          <textarea
+          <textarea required
             name="message"
             id="message"
             placeholder="Write your message here"
